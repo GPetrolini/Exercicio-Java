@@ -3,7 +3,11 @@ package Principal;
 import javax.swing.JOptionPane;
 import java.text.DecimalFormat;
 /**
- *
+ *Escreva um programa em JAVA que solicite ao usuário o seu peso(aqui entenda massa) em Kg (int) 
+e a sua altura em metros (Double). Com estes dados calcule o IMC – Índice de Massa Corporal. 
+Seguindo a seguinte fórmula.
+IMC = massa / (altura * altura )
+Mostre o resultado em uma mensagem. 
  * @author Gustavo
  */
 public class Exercicio9 {

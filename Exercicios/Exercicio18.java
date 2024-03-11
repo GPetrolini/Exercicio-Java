@@ -5,7 +5,14 @@
 package Principal;
 import javax.swing.JOptionPane;
 /**
- *
+ *Uma loja dará um desconto em seus produtos de acordo com a
+ categoria de cada produto.
+ As categorias e os descontos são mostrados abaixo:
+* A B C D E
+ 10% 15% 20% 25% 50%
+* Faça um algoritmo para ler o nome do cliente, o preço e a categoria do produto que o
+ cliente está comprando. Após a leitura mostrar na tela o preço final que o cliente deverá
+ pagar após ter sido dado o desconto no preço da mercadoria.
  * @author Gustavo
  */
 public class Exercicio18 {

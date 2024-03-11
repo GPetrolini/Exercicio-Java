@@ -5,7 +5,8 @@
 package Principal;
 import javax.swing.JOptionPane;
 /**
- *
+ *Escreva um algoritmo para calcular e mostrar a média dos números entre 1 e 1000
+ usando while
  * @author Gustavo
  */
 public class Exercicio22 {

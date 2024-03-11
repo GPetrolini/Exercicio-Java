@@ -5,7 +5,8 @@
 package Principal;
 import javax.swing.JOptionPane;
 /**
- *
+ *Escreva um algoritmo que mostre todos os números pares entre 33 e 57
+ usando for
  * @author Gustavo
  */
 public class Exercicio21 {

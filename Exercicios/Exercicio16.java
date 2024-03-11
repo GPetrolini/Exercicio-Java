@@ -5,7 +5,14 @@
 package Principal;
 import javax.swing.JOptionPane;
 /**
- *
+ *Implemente uma calculadora,
+ primeiro peça 2 números ao usuário (um de cada vez)
+ e apresente as seguintes opções:
+ * adição
+ * multiplicação
+ * subtração
+ * divisão
+ * Mostre o resultado após a operação.
  * @author Gustavo
  */
 public class Exercicio16 {

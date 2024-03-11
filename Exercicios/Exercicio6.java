@@ -1,3 +1,9 @@
+/*
+Repita o exercício anterior, mas agora mostre a mensagem abaixo:
+
+O valor da variável é : <número escolhido>
+
+*/
 package Principal;
 
 import javax.swing.JOptionPane;
